@@ -10,3 +10,5 @@ git pull origin main
 git add .
 git commit -m "save"
 git push
+
+12:11 50분 요청파라미터부터
