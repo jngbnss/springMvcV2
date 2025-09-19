@@ -12,3 +12,4 @@ git commit -m "save"
 git push
 
 12:11 50분 요청파라미터부터
+3:44 모델 어트리뷰트까지 get 쿼리 파라미터
